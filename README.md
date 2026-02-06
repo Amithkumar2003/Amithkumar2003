@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amith Kumar</h1>
+<h1 align="center">Hi , I'm Amith Kumar</h1>
 <h3 align="center">MCA Student | AI & Machine Learning Aspirant</h3>
 
 <p align="center">
@@ -7,42 +7,42 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I’m an **MCA student specializing in Artificial Intelligence & Machine Learning**, passionate about building intelligent systems and data-driven solutions.
 
-### 🎯 Current Focus Areas
+###  Current Focus Areas
 - Machine Learning & Model Building  
 - Python for Data Analysis  
 - AI fundamentals & real-world applications  
 - Improving problem-solving & coding skills  
 
-🎓 **Education:** MCA (AI & ML Specialization)  
-🚀 **Goal:** To become a skilled AI/ML Engineer  
+ **Education:** MCA (AI & ML Specialization)  
+ **Goal:** To become a skilled AI/ML Engineer  
 
 ---
 
-## 🧠 Skills & Technologies
+##  Skills & Technologies
 
-### 💻 Programming Languages
+###  Programming Languages
 - Python  
 - Java  
 - C / C++  
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 - Machine Learning Algorithms  
 - Data Preprocessing & Feature Engineering  
 - NumPy, Pandas, Matplotlib  
 - Scikit-learn  
 
-### 🛠 Tools & Platforms
+###  Tools & Platforms
 - Git & GitHub  
 - Jupyter Notebook  
 - VS Code  
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 Movie Review Sentiment Analysis
 - Machine learning project to classify movie reviews as positive or negative  
@@ -50,19 +50,9 @@ I’m an **MCA student specializing in Artificial Intelligence & Machine Learnin
 
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amithkumar2003&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amithkumar2003&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amith-kumar-507881328" target="_blank">
