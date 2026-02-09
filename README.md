@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amithkumar2003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Amithkumar2003?label=Followers&style=flat&color=0e75b6" alt="followers" />
 </p>
 
 ---
