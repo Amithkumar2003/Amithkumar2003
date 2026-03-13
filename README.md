@@ -42,13 +42,6 @@ I’m an **MCA student specializing in Artificial Intelligence & Machine Learnin
 
 ---
 
-##  Featured Projects
-
-### 🔹 Movie Review Sentiment Analysis
-- Machine learning project to classify movie reviews as positive or negative  
-- Technologies: Python, NLP, Scikit-learn  
-
-
 
 ---
 
